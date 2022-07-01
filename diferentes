@@ -1,0 +1,12 @@
+class Main {
+  public static void main(String[] args) {
+  String exercicio = "licao1";
+  String regra = "nota2";
+  if (exercicio == regra) {
+  System.out.print("iguais");
+    }else{
+    System.out.print("diferentes");
+    }
+    
+  }
+}
